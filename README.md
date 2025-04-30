@@ -90,8 +90,8 @@ This collection consists of 25 beginner-to-intermediate level projects that help
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/python-projects.git
-cd python-projects
+git clone https://github.com/Hamnakh/Python_25_Projects.git
+cd Python_25_Projects
 ```
 
 Each project is in its own folder. Follow the README inside each folder to run it.
@@ -126,4 +126,4 @@ Thanks to the Python community and open-source contributors whose resources guid
 
 ## 📬 Contact
 
-Feel free to reach out to me on [GitHub](https://github.com/your-username) for feedback or collaboration!
+Feel free to reach out to me on [GitHub](https:/Hamnakh/github.com/) for feedback or collaboration!
